@@ -8,10 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Smart-Transit-Lab.com
+  email: weihua.gu@polyu.edu.hk
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Smart-Transit-Lab
+  google-scholar: https://scholar.google.com.hk/citations?user=0m7hMYkAAAAJ&hl=en
+  github: https://github.com/Smart-Transit-Lab/
   twitter: Smart-Transit-Lab
   youtube: Smart-Transit-Lab
 
